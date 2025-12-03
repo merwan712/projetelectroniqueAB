@@ -22,9 +22,8 @@ Lancer la compilation.
 
 Après compilation, un dossier build est généré. À l’intérieur :
 
-Créer un fichier simulation.txt
+Créer un fichier simulation.txt et y inscrire les valeurs des variables selon la syntaxe définie (ex : X=0 Y=1 Z=0).
 
-Y inscrire les valeurs des variables selon la syntaxe définie (ex : X=0 Y=1 Z=0).
 <img width="97" height="216" alt="image" src="https://github.com/user-attachments/assets/7b2b4042-980c-446f-84f6-a604b97b09da" />
 
 

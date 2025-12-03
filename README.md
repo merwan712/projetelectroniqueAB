@@ -25,6 +25,8 @@ Après compilation, un dossier build est généré. À l’intérieur :
 Créer un fichier simulation.txt
 
 Y inscrire les valeurs des variables selon la syntaxe définie (ex : X=0 Y=1 Z=0).
+<img width="97" height="216" alt="image" src="https://github.com/user-attachments/assets/7b2b4042-980c-446f-84f6-a604b97b09da" />
+
 
 ✏️ Saisie de l'équation
 
@@ -52,6 +54,9 @@ Les symboles normalisés sont utilisés.
 
 L’état (0 ou 1) de chaque nœud est affiché en temps réel.
 
+<img width="945" height="355" alt="image" src="https://github.com/user-attachments/assets/b79433fa-d10d-4a49-a7fa-bfe8aca13b39" />
+
+
 ⏱️ Chronogramme
 
 La partie inférieure de la fenêtre affiche les chronogrammes des signaux :
@@ -62,3 +67,5 @@ Sortie : S
 
 Les courbes sont générées à partir du fichier simulation.txt.
 Chaque graduation représente 50 ns.
+
+<img width="945" height="363" alt="image" src="https://github.com/user-attachments/assets/5d132f32-39d2-45fd-9310-4534b5513346" />
